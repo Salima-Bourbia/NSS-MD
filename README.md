@@ -1,3 +1,3 @@
 # NSS-MD
 
-The code and the NSS-MDL model will soon be made publicly available
+The NSS-MDL model code will soon be publicly available.
